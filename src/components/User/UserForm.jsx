@@ -1,5 +1,5 @@
 import { useDispatch, useSelector } from "react-redux";
-import UserSignUpForm from "./UserSignupForm";
+import UserSignUpForm from "./UserSignUpForm";
 import styles from "../../styles/User.module.css";
 import { toggleForm, toggleFormType } from "../../features/user/userSlice";
 import UserLogInForm from "./UserLogInForm";
